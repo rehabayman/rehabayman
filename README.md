@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- :woman_technologist: I’m Rehab Ayman, Software Engineer mainly focused on Backend Engineering
+- :eyes: I'm interested in learning software engineering topics and concepts that widen my horizons
+- :seedling: I’m currently learning AWS Services
+- :mechanical_arm: Working on my skills one day at a time
+- :mailbox: You can reach me out on [LinkedIn](https://www.linkedin.com/in/rehab-ayman)
+
 <!--
 **rehabayman/rehabayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
