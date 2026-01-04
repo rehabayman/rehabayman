@@ -3,7 +3,8 @@
 
 - :woman_technologist: I’m Rehab Ayman, Software Engineer mainly focused on Backend Engineering
 - :eyes: I'm interested in learning software engineering topics and concepts that widen my horizons
-- :seedling: I’m currently learning AWS Services
+- :page_facing_up: All projects here are for learning purposes, some were built when I was a student!
+- :seedling: I’m currently learning AWS Services and Kafka
 - :mechanical_arm: Working on my skills one day at a time
 - :mailbox: You can reach me out on [LinkedIn](https://www.linkedin.com/in/rehab-ayman)
 
